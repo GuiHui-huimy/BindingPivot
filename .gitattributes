@@ -1,0 +1,4 @@
+*.sln linguist-vendored
+*.vcxproj linguist-vendored
+*.vcxproj.filters linguist-vendored
+*.vcxproj.user linguist-vendored
